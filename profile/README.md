@@ -1,4 +1,4 @@
-# strive
+# Strive
 
 Strive is a web application designed to help small businesses manage employee data, schedules, attendance tracking, and onboarding files. 
 
