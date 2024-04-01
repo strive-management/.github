@@ -2,8 +2,6 @@
 
 Strive is a web application designed to help small businesses manage employee data, schedules, attendance tracking, and onboarding files. 
 
-This . It contains the codebase for the backend of our application. 
-
 ## Getting Started 
 
 Before you begin, please ensure you have node.js and npm installed. 
